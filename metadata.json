@@ -1,0 +1,8 @@
+{
+  "name": "Remix Divine Frame VFX 3",
+  "description": "Precision PBR cyber-divine frame, elemental fire canvas VFX, neodymium crystal facets, and glassmorphism profile interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
